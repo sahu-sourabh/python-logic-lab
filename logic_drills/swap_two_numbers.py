@@ -1,4 +1,4 @@
-# Write a program to swap to numbers?
+# Write a program to swap two numbers?
 
 def using_backup_variable(a, b):
     backup_var = a # holds value of either a or b, only drawback we have used extra memory & processing power.

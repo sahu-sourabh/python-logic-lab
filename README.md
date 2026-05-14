@@ -10,6 +10,7 @@ A structured environment for mastering core Python patterns and algorithmic logi
 ## 🕹️ Current Drills
 - **Number Guessing Simulator:** Implements `try-except` blocks for value validation and fixed-state target logic.
 - **Modular Dice Simulator:** Uses functional decomposition to simulate probability outcomes.
+- **Swap Two Numbers:** Adds logic drill for swapping two numbers.
 
 ## 🚀 How to Run
 1. Clone: `git clone https://github.com/sahu-sourabh/python-logic-lab.git`
