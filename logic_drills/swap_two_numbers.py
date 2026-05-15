@@ -21,6 +21,6 @@ def using_bitwise_operation(a,b):
     a = a^b # a Ex-OR b
     print(f"Using bitwise operations {a} & {b}")
 
-using_backup_variable(10, 20)
-using_mathematical_operations(10, 20)
-using_bitwise_operation(10,20)
+using_backup_variable(0, 1)
+using_mathematical_operations(0, 1)
+using_bitwise_operation(0, 1)
