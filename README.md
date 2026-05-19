@@ -12,6 +12,7 @@ A structured environment for mastering core Python patterns and algorithmic logi
 - **Modular Dice Simulator:** Uses functional decomposition to simulate probability outcomes.
 - **Swap Two Numbers:** Adds logic drill for swapping two numbers.
 - **Reverse a Number:** Adds logic drill for reversing a number.
+- **Factorial of a Number:** Adds logic drill to find the factorial of a number.
 
 ## 🚀 How to Run
 1. Clone: `git clone https://github.com/sahu-sourabh/python-logic-lab.git`
